@@ -1,0 +1,7 @@
+{
+  "name": "sdf-project-template",
+  "devDependencies": {
+    "@hitc/netsuite-types": "^2017.2.25",
+    "@types/node": "^8.0.13"
+  }
+}

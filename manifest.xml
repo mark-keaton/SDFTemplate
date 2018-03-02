@@ -1,0 +1,13 @@
+<manifest projecttype="ACCOUNTCUSTOMIZATION">
+  <projectname>PartnerPay</projectname>
+  <frameworkversion>1.0</frameworkversion>
+  <dependencies>
+    <features>
+      <feature required="true">SERVERSIDESCRIPTING</feature>
+      <feature required="false">SUITESIGNON</feature>
+      <feature required="false">ACCOUNTING</feature>
+      <feature required="false">WEBSITE</feature>
+      <feature required="false">CRM</feature>
+    </features>
+  </dependencies>
+</manifest>
