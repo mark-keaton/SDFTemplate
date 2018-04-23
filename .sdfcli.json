@@ -1,0 +1,12 @@
+{
+  "projectName": "ProjectName",
+  "environments": [
+    {
+      "name": "Production",
+      "account": "TSTDRV1934412",
+      "url": "system.netsuite.com",
+      "role": 3,
+      "email": "sweetsolutions@netsuite.com"
+    }
+  ]
+}
