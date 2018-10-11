@@ -2,11 +2,18 @@
   "projectName": "ProjectName",
   "environments": [
     {
-      "name": "Production",
-      "account": "TSTDRV1934412",
+      "name": "Sandbox",
+      "account": "1234567",
       "url": "system.netsuite.com",
       "role": 3,
-      "email": "sweetsolutions@netsuite.com"
+      "email": "your@email.com"
+    },
+    {
+      "name": "Production",
+      "account": "1234567_SB1",
+      "url": "system.na1.netsuite.com",
+      "role": 3,
+      "email": "your@email.com"
     }
   ]
 }

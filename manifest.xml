@@ -1,5 +1,5 @@
 <manifest projecttype="ACCOUNTCUSTOMIZATION">
-  <projectname>PartnerPay</projectname>
+  <projectname>ProjectName</projectname>
   <frameworkversion>1.0</frameworkversion>
   <dependencies>
     <features>
@@ -9,5 +9,7 @@
       <feature required="false">WEBSITE</feature>
       <feature required="false">CRM</feature>
     </features>
+    <objects>
+    </objects>
   </dependencies>
 </manifest>

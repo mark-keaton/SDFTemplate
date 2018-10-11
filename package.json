@@ -1,5 +1,5 @@
 {
-  "name": "hackathon-2018",
+  "name": "sdftemplate",
   "devDependencies": {
     "@hitc/netsuite-types": "^2017.2.25",
     "@types/node": "^8.0.13"
